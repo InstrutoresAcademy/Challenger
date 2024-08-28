@@ -1,0 +1,25 @@
+ Challenger 4 - aula 05 
+*IMPOSTO DE RENDA*
+
+1. Introdução ao Imposto de Renda:
+- O que é o Imposto de Renda
+- Finalidade do Imposto de Renda
+- Tipos de Imposto de Renda (IRPF e IRPJ)
+
+2. Tributação e Cálculo do Imposto de Renda no Brasil
+- Como funciona a tributação no IR?
+- Exemplo de Cálculo Simplificado
+
+3. Projeto: Automação do Cálculo do Imposto de Renda com Python
+- Objetivo do Projeto:
+Desenvolver uma aplicação em Python que calcule o imposto de renda de indivíduos ou de uma família, automatizando o processo e gerando gráficos para visualização dos resultados e automatizar o envio de email para algum destinatário.
+
+- Parte 1: Configuração do Ambiente 
+Instalação das bibliotecas necessárias (pandas, matplotlib, smtplib).
+- Parte 2: Implementação do Cálculo 
+Criar a função para calcular o IR com base nas faixas e deduções.
+- Parte 3: Criação de Gráficos 
+Gerar gráficos que mostram o imposto pago por cada membro da família.
+- Parte 4: Automação com Envio de E-mail 
+Automatizar o envio do gráfico por e-mail.
+obs: Na hora de configurar o envio do email, será necessário atribuir o email do remetente, ou seja, a pessoa que está fazendo o projeto, deverá fornecer um email e senha para que o programa consiga enviar o email. É possível atribuir uma 'senha de app' que é gerada nas configurações do gmail.
