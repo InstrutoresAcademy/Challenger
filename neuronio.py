@@ -74,3 +74,4 @@ plt.grid(True)
 # Usamos tight_layout() para garantir que os subplots fiquem bem organizados, sem sobreposição de textos e elementos.
 plt.tight_layout()
 plt.show()
+#teste
