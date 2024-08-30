@@ -48,3 +48,4 @@ plt.xlabel('Mês')
 plt.ylabel('Mesada (R$)')
 plt.grid(True)
 plt.show()
+
